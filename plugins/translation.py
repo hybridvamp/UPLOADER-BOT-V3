@@ -13,34 +13,24 @@ I Am Telegram URL Uploader Bot.
 """
     HELP_TEXT = """
 𒊹︎︎︎ How To Upload File Or Media 
-
 ➪ Send Your Link For Upload File Or Media.
 
 𒊹︎︎︎ How to set thumbnail
-
 ➪ Send Your Thumbnail Photo And Permanent Added Your Photo.
 
 𒊹︎︎︎ How To Deleting Thumbnail
-
 ➪ Send /delthumb To Delete Your Thumbnail.
 
 𒊹︎︎︎ How To Show Thumbnail 
-
 ➪ Send /showthumb To View Custom Thumbnail 
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V3 🚀](http://t.me/UploadFlieBot)
-
-**❤️ Version** : [2.3 🔥](http://t.me/UploadFlieBot)
-
-**🤖 Source** : [Click](https://github.com/LISA-KOREA/UPLOADER-BOT-V3)
-
-**🧿 Language** : [Python 3.10.9](https://www.python.org/)
-
-**📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
-
-**👨‍💻 Developer** : [LISA](https://t.me/LISA_FAN_KL)
+**Name** : [Uploader Bot V3 🚀](http://t.me/URL_uploader_hybrid_bot)
+**Version** : 2.3 🔥
+**Updates** : [Click](https://t.me/hybrid_bots)
+**Language** : [Python 3.10.9](https://www.python.org/)
+**Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
 """
 
@@ -89,14 +79,14 @@ I Am Telegram URL Uploader Bot.
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>No preminum plans available in this bot </b>  /help for Details"
-    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @NT_BOT_CHANNEL"
+    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @HYBRID_Bots"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "📥 Downloading..."
     UPLOAD_START = "📤 Uploading.."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : Lisa 💕\nFor the List of Telegram Bots"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = " Join: @HYBRID_Bots\nFor the List of Telegram Bots"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nTʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ\n\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs"
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Save Your Thumbnail ✔️"
